@@ -14,7 +14,13 @@ module.exports = {
   //     "spaceId": "5i2f86b9dc37"
   //   }
   // }, 
-  "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-plugin-emotion", "gatsby-plugin-google-gtag", "gatsby-plugin-sitemap", {
+  "gatsby-plugin-image", 
+  "gatsby-plugin-sharp", 
+  "gatsby-transformer-sharp", 
+  "gatsby-plugin-emotion", 
+  "gatsby-plugin-google-gtag", 
+  "gatsby-plugin-sitemap", 
+  {
     resolve: 'gatsby-plugin-manifest',
     options: {
       "icon": "src/images/icon.png"
